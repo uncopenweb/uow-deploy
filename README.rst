@@ -1,6 +1,6 @@
-===================
-UNC Open Web Server
-===================
+======================================
+UNC Open Web server deployment scripts
+======================================
 
 :Author: Gary Bishop
 :Author: Peter Parente
